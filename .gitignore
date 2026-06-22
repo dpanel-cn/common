@@ -1,0 +1,22 @@
+.DS_Store
+
+# Go
+/bin/
+/dist/
+/coverage/
+*.test
+*.out
+
+# Local workspaces and caches
+go.work
+go.work.sum
+.cache/
+.tmp/
+tmp/
+
+# Editor
+.idea/
+.vscode/
+
+# Generated backups
+*.bak
